@@ -1,3 +1,3 @@
-* [Survey Project](https://github.com/traci-porter/github-portfolio/survey/index.html)
-* [Tribute Project](https://github.com/traci-porter/github-portfolio/tribute/index.html)
+* [Survey Project](https://traci-porter.github.io/github-portfolio/survey/index.html)
+* [Tribute Project](https://traci-porter.github.io/github-portfolio/tribute/index.html)
 
