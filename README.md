@@ -1,6 +1,6 @@
 
 
   
-* [Survey Project](https://github.com/traci-porter/github-portfolio/tree/main/survey/index.html)
-* [Tribute Project](https://github.com/traci-porter/github-portfolio/tree/main/tribute/index.html)
+* [Survey Project](https://github.com/traci-porter/github-portfolio/survey/index.html)
+* [Tribute Project](https://github.com/traci-porter/github-portfolio/tribute/index.html)
 
