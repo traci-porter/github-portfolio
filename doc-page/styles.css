@@ -1,0 +1,13 @@
+
+nav {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  #nav-link {
+    width: 158px;
+  }
+}
+body {
+  background-color: cyan;
+}
