@@ -2,4 +2,5 @@
 * [Tribute Project](https://traci-porter.github.io/github-portfolio/tribute/index.html)
 * [Documentation Page](https://traci-porter.github.io/github-portfolio/doc-page/index.html)
 * [City Skyline](https://traci-porter.github.io/github-portfolio/city-skyline/index.html)
+* [Magazine](https://traci-porter.github.io/github-portfolio/magazine/index.html)
 
