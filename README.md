@@ -19,6 +19,6 @@
 
 
 
-<p align="left">
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
 <video source src="https://github.com/traci-porter/github-portfolio/assets/146656449/c880c89e-690d-420a-8f36-f4ab3cab9d6e" type="video/mp4" width="350">
 </p>
