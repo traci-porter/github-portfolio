@@ -14,9 +14,9 @@
 </p>
 
   
-<p align="left">
+<div class="row video">
 <video source src="https://github.com/traci-porter/github-portfolio/assets/146656449/54502659-90d1-4d74-90e4-9001d2fdefd1" type="video/mp4" width="500">
-</p>
+</div>
 
 
 <p align="left">
@@ -24,6 +24,3 @@
 </p>
 
 
-<p>
-<iframe id="video" width="560" height="315" src="https://github.com/traci-porter/github-portfolio/assets/146656449/c880c89e-690d-420a-8f36-f4ab3cab9d6e" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-</p>
