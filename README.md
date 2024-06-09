@@ -14,7 +14,7 @@
 </p>
   
 <p align="left">
-<source src="https://github.com/traci-porter/github-portfolio/assets/146656449/54502659-90d1-4d74-90e4-9001d2fdefd1" type="video/mp4">
+<video source src="https://github.com/traci-porter/github-portfolio/assets/146656449/54502659-90d1-4d74-90e4-9001d2fdefd1" type="video/mp4" width="200">
 </p>
 
 
