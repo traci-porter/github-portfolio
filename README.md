@@ -6,8 +6,8 @@
 </p>
 <p align="left" width="100%">
 <img width="33%" src="https://github.com/traci-porter/github-portfolio/blob/main/images/2024-03-21_15-26-41.png?raw=true" style="display" width="300px" height="400px">
-<img width="33%" src="https://github.com/traci-porter/github-portfolio/blob/main/images/2024-06-06_13-12-20.png?raw=true" style="display" width="200px" height="400px">
-<p>
+<img width="33%" src="https://github.com/traci-porter/github-portfolio/blob/main/images/2024-06-06_13-12-20.png?raw=true" style="display" width="300px" height="400px">
+</p>
 
 <p align="left" width="100%">
 <img width="33%" src="https://github.com/traci-porter/github-portfolio/blob/main/images/2024-06-06_13-13-15.png?raw=true" style="display" width="300px" height="400px">
