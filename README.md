@@ -14,7 +14,6 @@
 </p>
 
 **Videos**
-
 * [Ferris Wheel](https://traci-porter.github.io/github-portfolio/ferris-wheel/index.html)
 * [Penguin](https://traci-porter.github.io/github-portfolio/penguin/index.html)
 
