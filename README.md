@@ -1,3 +1,13 @@
+**Writing Samples**
+
+* [Subscription Foundation](https://developer.Bigcommerce.com/docs/integrations/subscriptions) 
+
+* [Localization Tutorial](https://developer.bigcommerce.com/docs/storefront/stencil/themes/localization/tutorial) 
+
+* [GraphQL Storefront API: Carts and Checkout](https://developer.bigcommerce.com/docs/storefront/cart-checkout/guide/graphql-storefront)
+
+* [Becoming a Partner](https://developer.bigcommerce.com/docs/start/partner) 
+
 **Responsive Web Design - HTML & CSS**
 <p align="left" width="100%">
 
@@ -18,4 +28,3 @@
 * [Penguin](https://traci-porter.github.io/github-portfolio/penguin/index.html)
 
 
-  
