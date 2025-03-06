@@ -1,6 +1,8 @@
 **Writing Samples**
 
-* [Subscription Foundation](https://developer.Bigcommerce.com/docs/integrations/subscriptions) 
+* [Subscription Foundation](https://developer.Bigcommerce.com/docs/integrations/subscriptions)
+  
+* [POS Foundation](https://developer.bigcommerce.com/docs/integrations/point-of-sale)
 
 * [Localization Tutorial](https://developer.bigcommerce.com/docs/storefront/stencil/themes/localization/tutorial) 
 
