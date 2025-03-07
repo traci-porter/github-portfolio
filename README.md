@@ -34,6 +34,7 @@ FreeCodeCamp exercises
 
 
 **Contact Me**
+
 If you're interested in my work and would like to get in touch, you can reach me at:
 
 Email: traci707@gmail.com
