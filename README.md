@@ -37,8 +37,8 @@ FreeCodeCamp exercises
 
 If you're interested in my work and would like to get in touch, you can reach me at:
 
-Email: traci707@gmail.com
-LinkedIn: https://www.linkedin.com/in/traci-porter/
+* Email: traci707@gmail.com
+* LinkedIn: https://www.linkedin.com/in/traci-porter/
 
 Thank you for visiting my portfolio. I look forward to the possibility of working together!
 
