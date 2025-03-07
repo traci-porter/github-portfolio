@@ -6,7 +6,7 @@ I approach every project with curiosity, a commitment to quality, and a focus on
 
 **Overview**
 
-This repository showcases a selection of my technical writing samples from my work at BigCommerce. I chose each piece for its role as a project for which I served as the lead writer. You'll find technical articles demonstrating my ability to simplify complex concepts and present them as clear, engaging, and accessible content for a diverse audience.
+This repository highlights a curated selection of my technical writing work during my time at BigCommerce. Each piece was chosen for its significance, with me serving as the lead writer. The collection includes technical articles that demonstrate my ability to simplify complex concepts and deliver clear, engaging, and accessible content for a wide range of audiences. Additionally, you will find HTML/CSS exercises that I completed as part of the freeCodeCamp academy.
 
 **Writing Samples**
 
@@ -22,8 +22,6 @@ This repository showcases a selection of my technical writing samples from my wo
 
 **Responsive Web Design - HTML & CSS**
 
-FreeCodeCamp exercises
-
 * [Teacher's Day](https://i.pinimg.com/564x/23/6f/ed/236fedc1fe557a77ce09322973f6ef1a.jpg)
 * [Skyline](https://github.com/traci-porter/github-portfolio/blob/main/images/2024-05-16_08-39-48.png)
 * [Survey Form](https://github.com/traci-porter/github-portfolio/blob/main/images/2024-03-21_15-26-41.png)
@@ -38,7 +36,7 @@ FreeCodeCamp exercises
 If you're interested in my work and would like to get in touch, you can reach me at:
 
 * Email: traci707@gmail.com
-* LinkedIn: https://www.linkedin.com/in/traci-porter/
+* LinkedIn: [https://www.linkedin.com/in/traci-porter/](https://www.linkedin.com/in/traci-porter/)
 
 Thank you for visiting my portfolio. I look forward to the possibility of working together!
 
