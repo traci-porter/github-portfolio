@@ -6,13 +6,15 @@ I approach every project with curiosity, a commitment to quality, and a focus on
 
 **Overview**
 
-This repository highlights a curated selection of my technical writing work during my time at BigCommerce. Each piece was chosen for its significance, with me serving as the lead writer. The collection includes technical articles that demonstrate my ability to simplify complex concepts and deliver clear, engaging, and accessible content for a wide range of audiences. Additionally, you will find HTML/CSS exercises that I completed as part of the freeCodeCamp academy.
+This repository highlights a curated selection of my technical writing work during my time at BigCommerce. Each piece was chosen for its significance, with me serving as the lead writer. The collection includes technical articles demonstrating my ability to simplify complex concepts and deliver clear, engaging, and accessible content for a wide range of audiences. Also, you will find the HTML/CSS exercises that I completed as part of the freeCodeCamp academy.
 
 **Writing Samples**
 
 * [Subscription Foundation](https://developer.Bigcommerce.com/docs/integrations/subscriptions)
   
 * [POS Foundation](https://developer.bigcommerce.com/docs/integrations/point-of-sale)
+
+* [Webhooks Tutorial](https://developer.bigcommerce.com/docs/integrations/webhooks/tutorial)
 
 * [Localization Tutorial](https://developer.bigcommerce.com/docs/storefront/stencil/themes/localization/tutorial) 
 
