@@ -10,7 +10,7 @@ This repository highlights a curated selection of my technical writing work duri
 
 **Writing Samples**
 
-* [Subscription Foundation](https://developer.Bigcommerce.com/docs/integrations/subscriptions)
+* [Subscription Foundation](https://github.com/traci-porter/github-portfolio/blob/main/Subscription%20Foundation%20_%20BigCommerce%20Dev%20Center.pdf))
   
 * [POS Foundation](https://developer.bigcommerce.com/docs/integrations/point-of-sale)
 
