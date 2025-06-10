@@ -4,7 +4,7 @@ I am a dedicated technical writer interested in software quality and testing. I 
 
 I approach every project with curiosity, a commitment to quality, and a focus on efficiency, ensuring that each piece of content enhances the user experience.
 
-When I’m not writing, I enjoy baking sourdough bread.
+When I’m not writing, I enjoy baking sourdough bread and teaching English as a Second language on [Preply](https://preply.com/en/tutor/6329583).
 
 **Overview**
 * [QA Engineering](#qa-engineering)
