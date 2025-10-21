@@ -29,8 +29,8 @@ When I’m not writing, I enjoy baking sourdough bread and teaching English as a
   
 ● Task 3: Write an SQL query to retrieve all orders placed by customers with IDs 1, 3, and 5 from the "Orders" table.
 
-  SELECT * FROM Customers
-  WHERE City IN ("LONDON", "PARIS");
+  SELECT * FROM Orders
+  WHERE CustomerID IN (1,3,5);
 
 ● Task 4: Write an SQL query to retrieve all products with a product name containing the letter 'a' from the "Products" table.
 
@@ -39,8 +39,8 @@ When I’m not writing, I enjoy baking sourdough bread and teaching English as a
   
 ● Task 5: Write an SQL query to retrieve all customers from the "Customers" table who are from either the city 'London' or 'Paris'.
 
-  SELECT CustomerID FROM Orders
-  WHERE CustomerID IN (1,3,5);
+  SELECT * FROM Customers 
+  WHERE City IN ('London', 'Paris');
   
 ● Task 6: Write a SQL query to select all products from the "Products" table where the price is greater than $20.
 
