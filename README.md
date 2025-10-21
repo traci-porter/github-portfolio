@@ -30,7 +30,7 @@ When I’m not writing, I enjoy baking sourdough bread and teaching English as a
 ● Task 3: Write an SQL query to retrieve all orders placed by customers with IDs 1, 3, and 5 from the "Orders" table.
 
   SELECT * FROM Orders
-  WHERE CustomerID IN (1,3,5);
+  WHERE CustomerID IN (1, 3, 5);
 
 ● Task 4: Write an SQL query to retrieve all products with a product name containing the letter 'a' from the "Products" table.
 
