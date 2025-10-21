@@ -14,7 +14,7 @@ When I’m not writing, I enjoy baking sourdough bread and teaching English as a
 
 ### **Sample Test Cases**
 * [**Manual**](https://docs.google.com/spreadsheets/d/1BpbdH7gpmgwwtUTcjqm8jUISkFwabJB6X7Vrtv-vFpA/edit?usp=sharing)
-* [**Automation - Selenium & PyCharm**](https://drive.google.com/file/d/17_LvTHmc2_t3wwNh_pfEbsBJhmNamlxn/view?usp=sharing)
+* [**Automation - Selenium & PyCharm**](https://drive.google.com/drive/folders/1ct7ieZ-NOPIBDToXW6XyKphyzFLYT1UY)
 
 ### **SQL Commands**
 
