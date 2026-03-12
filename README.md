@@ -66,6 +66,10 @@ This repository highlights a curated selection of my technical writing work duri
 
 * [Becoming a Partner](https://developer.bigcommerce.com/docs/start/partner) 
 
+### **Developer Documentation Sample**
+
+* [API Testing with Postman](https://github.com/traci-porter/github-portfolio/blob/main/postman-api-testing.md)
+
 ### **Responsive Web Design - HTML & CSS**
 
 * [Teacher's Day](https://i.pinimg.com/564x/23/6f/ed/236fedc1fe557a77ce09322973f6ef1a.jpg)
