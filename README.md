@@ -1,10 +1,20 @@
 **About Me**
 
-I am a dedicated technical writer interested in software quality and testing. I am passionate about delivering clear, accurate, and user-friendly documentation. I strive to bridge the gap between development, QA, and end-users by ensuring that documentation aligns with both the software's functionality and real-world user needs. In addition to my 18 years of experience as a Technical Writer working in the software industry, I am expanding my skills in software testing, including test automation, to understand product quality better and help create robust, reliable software. I am eager to collaborate with teams to improve test coverage, identify edge cases, and contribute to continuous improvement throughout the product lifecycle. A few of my skills include GitHub, Postman, CircleCI, Stoplight, JIRA, JavaScript, Visual Studio, HTML/CSS, Chrome Dev Tools, SQL, Selenium, Python, and TestRail. 
+## About Me
 
-I approach every project with curiosity, a commitment to quality, and a focus on efficiency, ensuring that each piece of content enhances the user experience.
+I’m a technical writer and Business English coach with 18 years of experience working in the software industry.
 
-When I’m not writing, I enjoy baking sourdough bread and teaching English as a Second language on [Preply](https://preply.com/en/tutor/6329583) and [Superprof](https://www.superprof.com/celta-certified-esl-teacher-austin-texas-helping-women-children-speak-with-confidence.html).
+Throughout my career, I have focused on helping people understand and use technology more effectively. As a technical writer, I specialize in creating clear, accurate, and user-focused documentation for software products and developer audiences. I enjoy working at the intersection of development, QA, documentation, and user experience—translating complex technical information into content that helps people accomplish their goals.
+
+My technical background includes API documentation, GitHub, Postman, Jira, JavaScript, HTML/CSS, Chrome DevTools, SQL, Python, Selenium, TestRail, CircleCI, and Stoplight. I have also expanded my skills in software testing and test automation to deepen my understanding of product quality and the software development lifecycle.
+
+I am particularly interested in usability, information architecture, learning experiences, and the ways people interact with technology. Whether I am writing documentation, supporting quality initiatives, designing learning materials, or coaching English learners, I enjoy finding ways to make information more accessible and useful.
+
+I also hold a CELTA certification and teach Business English to international professionals, helping learners build confidence in workplace communication, presentations, meetings, interviews, and professional writing.
+
+I approach every project with curiosity, a commitment to quality, and a focus on the people who will ultimately use the product, documentation, or learning experience.
+
+When I’m not writing, I enjoy baking sourdough bread and teaching Business English to international professionals on Preply: https://preply.com/en/tutor/6329583.
 
 **Overview**
 * [QA Engineering](#qa-engineering)
