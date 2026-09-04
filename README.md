@@ -12,7 +12,7 @@ I also hold a CELTA certification and teach Business English to international pr
 
 I approach every project with curiosity, a commitment to quality, and a focus on the people who will ultimately use the product, documentation, or learning experience.
 
-When I’m not writing, I enjoy baking sourdough bread and teaching Business English to international professionals on Preply: https://preply.com/en/tutor/6329583.
+When I’m not writing, I enjoy baking sourdough bread and teaching Business English to international professionals on [**Preply**](https://preply.com/en/tutor/6329583).
 
 **Overview**
 * [QA Engineering](#qa-engineering)
