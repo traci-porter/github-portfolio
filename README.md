@@ -1,5 +1,3 @@
-**About Me**
-
 ## About Me
 
 I’m a technical writer and Business English coach with 18 years of experience working in the software industry.
